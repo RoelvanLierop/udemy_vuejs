@@ -1,2 +1,2 @@
 # udemy_vuejs
-uDemy couse VueJS
+uDemy course VueJS
